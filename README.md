@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!-- - 🔭 I’m currently working at [Sigmatech] as [Quality Assurance Engineer] -->
-<!-- - 🌱 I’m currently learning automation using Katalon, Cypress, WebdriverIO, Robot, and Karate -->
+🔭 I’m currently working at [Sigmatech] as [Quality Assurance Engineer]
+🌱 I’m currently learning automation using Katalon, Cypress, WebdriverIO, Robot, and Karate
 
 ![Aye's Github Activity](https://github-profile-trophy.vercel.app/?username=anditorx&theme=discord&rank=-C&margin-w=15)
 
@@ -16,4 +16,4 @@
 
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anditorx&theme=github_dark&layout=compact&hide=html,css,php,blade,roff,scss)](#)
 
-![Aye's GitHub Status](https://github-readme-stats.vercel.app/api?username=anditorx&theme=github_dark&show_icons=true)
+<!-- - ![Aye's GitHub Status](https://github-readme-stats.vercel.app/api?username=anditorx&theme=github_dark&show_icons=true) -->
