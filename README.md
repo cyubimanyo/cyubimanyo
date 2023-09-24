@@ -4,11 +4,11 @@
 
 🎓 I have done my education in **Information Systems** at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/) by August 2023.
 
-👩🏻‍💻 I'm working at Sigmatech as **QA Engineer** 
+👩🏻‍💻 I'm working at Sigmatech (Project Client: PT. Triputra Agro Persada) as **QA Engineer** 
 
 🌱 Here, I usually share my works about my portfolio in software development and testing. Currently, I'm working on automation testing using Katalon Studio, Cypress, WebdriverIO, Robot, and Karate.
 
-😄 If you want to know me more, feel free to reach me by [Linkedin](https://www.linkedin.com/in/andhiny-fatikha/).
+😄 If you want to know me more, please reach me by [Linkedin](https://www.linkedin.com/in/andhiny-fatikha/).
 
 Thank you! ^^`~
 
