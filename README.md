@@ -4,7 +4,7 @@
 
 🎓 I have done my education in **Information Systems** at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/) by August 2023.
 
-👩🏻‍💻 I'm working at Sigmatech (Project Client: PT. Triputra Agro Persada) as **QA Engineer** 
+👩🏻‍💻 I'm working at PT. Bank Rakyat Indonesia (Persero) Tbk as **QA Automation** 
 
 🌱 Here, I usually share my works about my portfolio in software development and testing. Currently, I'm working on automation testing using Katalon Studio, Cypress, WebdriverIO, Robot, and Karate.
 
