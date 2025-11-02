@@ -6,7 +6,7 @@
 
 👩🏻‍💻 I'm working at PT. Bank Negara Indonesia as **QA Automation** 
 
-🌱 Here, I usually share my works about my portfolio in software development and testing. Currently, I'm working on automation testing using Katalon Studio, Cypress, WebdriverIO, Robot, and Karate.
+🌱 Here, I usually share my works about my portfolio in software development and testing. Currently, I'm working on automation testing using Katalon Studio, Playwright, Cypress, WebdriverIO, Robot, Javascript JEST, and Karate.
 
 😄 If you want to know me more, please reach me by [Linkedin](https://www.linkedin.com/in/andhiny-fatikha/).
 
